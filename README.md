@@ -1,2 +1,3 @@
 # hello-world
-THE FIRST REPOSITORY
+第一仓库
+NOIP
